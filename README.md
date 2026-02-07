@@ -12,18 +12,18 @@ Focused on:
 - 🧪 Burp Suite & manual testing
 
 ### Certifications & Training
-- 🎓 Ethical Hacker – Cisco Networking Academy  
-- 🎓 Cybersecurity Fundamentals & Vulnerability Management – IBM  
-- 🎓 Web Application Pentesting – TryHackMe  
-- 🎓 Red Teaming, Jr Penetration Tester, Security Engineer – TryHackMe  
-- 🎓 DevSecOps & Web Fundamentals – TryHackMe  
-- 🎓 Web Application Security & Pentesting – BTK Akademi  
-
+- 🎓 Ethical Hacker   
+- 🎓 Cybersecurity Fundamentals & Vulnerability Management 
+- 🎓 Web Application Pentesting
+- 🎓 Red Teaming, Jr Penetration 
+- 🎓 DevSecOps & Web Fundamentals  
+- 🎓 Web Application Security & Pentesting 
 ### Tools & Tech
-Python • Linux • Burp Suite • Git • Web Security
+Python • Linux • Burp Suite • Nmap • SQL Injection • XSS • IDOR • Authentication Testing • Web Security Automation
 
-📫 **Contact:** rasitsezgin@gmail.com
-
-![Skills](https://skillicons.dev/icons?i=python,linux,bash,git,html)
-
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
