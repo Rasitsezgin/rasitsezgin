@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi 👋 I'm Raşit Sezgin
 
-<!--
-**Rasitsezgin/rasitsezgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Security Specialist | Security Researcher 🔐**
 
-Here are some ideas to get you started:
+Web security researcher with hands-on experience in building  
+**Python-based vulnerability scanners** and performing **manual web application pentesting**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on:
+- 🛡️ XSS, SQL Injection, IDOR, Auth flaws
+- ⚙️ Automation-driven security analysis
+- 🐍 Python & custom security tooling
+- 🧪 Burp Suite & manual testing
+
+### Certifications & Training
+- 🎓 Ethical Hacker – Cisco Networking Academy  
+- 🎓 Cybersecurity Fundamentals & Vulnerability Management – IBM  
+- 🎓 Web Application Pentesting – TryHackMe  
+- 🎓 Red Teaming, Jr Penetration Tester, Security Engineer – TryHackMe  
+- 🎓 DevSecOps & Web Fundamentals – TryHackMe  
+- 🎓 Web Application Security & Pentesting – BTK Akademi  
+
+### Tools & Tech
+Python • Linux • Burp Suite • Git • Web Security
+
+📫 **Contact:** rasitsezgin@gmail.com
+
+  ![Skills](https://skillicons.dev/icons?i=python,linux,git)
