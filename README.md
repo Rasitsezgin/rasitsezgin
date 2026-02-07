@@ -24,8 +24,6 @@ Python • Linux • Burp Suite • Git • Web Security
 
 📫 **Contact:** rasitsezgin@gmail.com
 
-![XSS](https://img.shields.io/badge/XSS-critical-red?style=for-the-badge)
-![SQLi](https://img.shields.io/badge/SQL%20Injection-critical-red?style=for-the-badge)
-![IDOR](https://img.shields.io/badge/IDOR-high-orange?style=for-the-badge)
-![Auth Flaws](https://img.shields.io/badge/Auth%20Flaws-high-orange?style=for-the-badge)
+![Skills](https://skillicons.dev/icons?i=python,linux,bash,git,html)
+
 
