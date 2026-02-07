@@ -24,8 +24,8 @@ Python • Linux • Burp Suite • Git • Web Security
 
 📫 **Contact:** rasitsezgin@gmail.com
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1F2937?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![XSS](https://img.shields.io/badge/XSS-critical-red?style=for-the-badge)
+![SQLi](https://img.shields.io/badge/SQL%20Injection-critical-red?style=for-the-badge)
+![IDOR](https://img.shields.io/badge/IDOR-high-orange?style=for-the-badge)
+![Auth Flaws](https://img.shields.io/badge/Auth%20Flaws-high-orange?style=for-the-badge)
+
