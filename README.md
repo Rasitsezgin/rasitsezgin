@@ -22,6 +22,7 @@ Focused on:
 Python • Linux • Burp Suite • Nmap • SQL Injection • XSS • IDOR • Authentication Testing • Web Security Automation
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0040FF?style=for-the-badge&logo=nmap&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
